@@ -1,7 +1,7 @@
 #  Discord v13 Select Menu Bot
 
 
- - [Discord Müzik Bot](https://github.com/GweepCreative/v13-muzik-bot)
+ - [Discord Dropdown Menü Bot](https://github.com/GweepCreative/v13-SelectMenu-role)
       - [Kurulum](#kurulum-pc)
       - [İletişim](#İletişim)
       - [FAQ](#faq)
@@ -23,7 +23,7 @@
 * Kurulum bittikten sonra ```node app.js``` yaz ve botu başlat.
 
 # Kurulum Glitch
-* İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/serious-sumptuous-scarecrow) seni otomatik olarak proje sayfasına gönlendiricek.
+* İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/v13-selectmenu) seni otomatik olarak proje sayfasına gönlendiricek.
 * Daha sonra `ayarlar.json`dosyasındaki bilgileri doldur.
 * Kurulum bittikten sonra bot otomatik başlatılacaktır.
 
